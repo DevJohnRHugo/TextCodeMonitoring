@@ -1,0 +1,41 @@
+C:\Users\Pj\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.Properties.Resources.resources
+C:\Users\Pj\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.csproj.GenerateResource.Cache
+C:\Users\Pj\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.TextCodeMonitoringForm.resources
+F:\Programming\Programs Developed\TextCodeMonitoring\TextCodeMonitoring\bin\Debug\TextCodeMonitoring.exe.config
+F:\Programming\Programs Developed\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.exe
+F:\Programming\Programs Developed\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.pdb
+F:\Programming\Programs Developed\TextCodeMonitoring\TextCodeMonitoring\bin\Debug\Text Code Monitoring.exe.config
+F:\Programming\Programs Developed\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\Text Code Monitoring.exe
+F:\Programming\Programs Developed\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\Text Code Monitoring.pdb
+D:\Programming\Programs Developed\TextCodeMonitoring\TextCodeMonitoring\bin\Debug\Text Code Monitoring.exe.config
+D:\Programming\Programs Developed\TextCodeMonitoring\TextCodeMonitoring\bin\Debug\Text Code Monitoring.exe
+D:\Programming\Programs Developed\TextCodeMonitoring\TextCodeMonitoring\bin\Debug\Text Code Monitoring.pdb
+D:\Programming\Programs Developed\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.csprojResolveAssemblyReference.cache
+D:\Programming\Programs Developed\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.WeeklyCheckForm.resources
+D:\Programming\Programs Developed\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.TextCodeMonitoringForm.resources
+D:\Programming\Programs Developed\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.Properties.Resources.resources
+D:\Programming\Programs Developed\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.csproj.GenerateResource.Cache
+D:\Programming\Programs Developed\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\Text Code Monitoring.exe
+D:\Programming\Programs Developed\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\Text Code Monitoring.pdb
+C:\Users\Pj\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\bin\Debug\Text Code Monitoring.exe.config
+C:\Users\Pj\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\Text Code Monitoring.exe
+C:\Users\Pj\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\Text Code Monitoring.pdb
+C:\Users\Pj\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\bin\Debug\Text Code Monitoring.exe
+C:\Users\Pj\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\bin\Debug\Text Code Monitoring.pdb
+C:\Users\Pj\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.WeeklyCheckForm.resources
+C:\Users\Pj\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.csprojResolveAssemblyReference.cache
+C:\Users\Pj\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.FormSearchLoading.resources
+C:\Users\Pj\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.FilterCallUpForm.resources
+D:\My Files\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\bin\Debug\Text Code Monitoring.exe.config
+D:\My Files\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\bin\Debug\Text Code Monitoring.exe
+D:\My Files\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\bin\Debug\Text Code Monitoring.pdb
+D:\My Files\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.CustomeDateRangeCallUpForm.resources
+D:\My Files\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.FilterCallUpForm.resources
+D:\My Files\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.FormSearchLoading.resources
+D:\My Files\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.WeeklyCheckForm.resources
+D:\My Files\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.TextCodeMonitoringForm.resources
+D:\My Files\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.Properties.Resources.resources
+D:\My Files\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.csproj.GenerateResource.Cache
+D:\My Files\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\Text Code Monitoring.exe
+D:\My Files\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\Text Code Monitoring.pdb
+D:\My Files\My Programming\Programs Developed\Office\c# Projects\TextCodeMonitoring\TextCodeMonitoring\obj\Debug\TextCodeMonitoring.csprojResolveAssemblyReference.cache
