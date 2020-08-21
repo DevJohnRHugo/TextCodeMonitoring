@@ -17,7 +17,8 @@ namespace TextCodeMonitoring
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new TextCodeMonitoringForm());
-
+            //skdjalksjl
+            //commit 2
         }
     }
 }
